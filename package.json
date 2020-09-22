@@ -1,0 +1,22 @@
+{
+  "name": "javascript-and-es6-challenges",
+  "version": "1.0.0",
+  "description": "Repository for the course JavaScript-and-ES6-Challenges",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mocariz/JavaScript-and-ES6-Challenges.git"
+  },
+  "author": "Mônica Mota Ocariz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mocariz/JavaScript-and-ES6-Challenges/issues"
+  },
+  "homepage": "https://github.com/mocariz/JavaScript-and-ES6-Challenges#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
